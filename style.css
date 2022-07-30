@@ -1,0 +1,118 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+                    font-family: "Poppins", cursive;
+                }
+                
+                .container {
+                    height: 100vh;
+                    background-color: #fff;
+                }
+                
+                .navbar-container {
+                    position: relative;
+                    display: flex;
+                    padding: 2rem 5rem;
+                    padding-bottom: 0rem;
+                    margin: 1rem 3rem 0 1.8rem;
+                }
+                
+                .navbar-container img {
+                    padding-right: 2rem;
+                    height: 2rem;
+                }
+                
+                .navbar-container ul {
+                    text-align: center;
+                    justify-content: center;
+                    position: absolute;
+                    float: left;
+                }
+                
+                .navbar-container ul li {
+                    position: relative;
+                    list-style: none;
+                    text-decoration: none;
+                    padding: 0.1rem 1.5rem 1rem;
+                    font-size: 1rem;
+                    float: left;
+                    color: rgba(0, 0, 0, 0.5);
+                    cursor: pointer;
+                }
+                
+                .navbar-container ul li:hover {
+                    color: rgb(0, 0, 0);
+                    font-weight: 500;
+                }
+                
+                .button-group .nav-button {
+                    position: absolute;
+                    right: 4rem;
+                    padding: 0.6rem 2rem;
+                    color: white;
+                    background-color: rgb(79, 70, 163);
+                    border: none;
+                    border-radius: 10px;
+                    font-size: 1rem;
+                    cursor: pointer;
+                }
+                /* ------------------------------------------------------ */
+                
+                .banner-container {
+                    display: flex;
+                    /* grid-template-columns: 1fr 1fr; */
+                    align-items: center;
+                }
+                
+                .banner-container img {
+                    /* display: flex; */
+                    text-align: center;
+                    justify-content: center;
+                    height: 30rem;
+                    width: 110%;
+                    margin-top: 3rem;
+                    margin-left: 6.2rem;
+                }
+                /* heading-text */
+                
+                .left {
+                    min-height: 30rem;
+                    width: 23rem;
+                    margin-top: 3rem;
+                    margin-left: 6rem;
+                    padding: 1rem;
+                }
+                
+                .heading-text {
+                    font-size: 3rem;
+                    font-weight: bold;
+                    word-wrap: break-word;
+                    color: #120E43;
+                    text-align: left;
+                    padding: 4.5rem 0rem 1;
+                    padding-top: 3.5rem;
+                    padding-left: 0rem;
+                    line-height: 3.5rem;
+                }
+                
+                .heading-text span {
+                    color: rgb(89, 80, 165);
+                }
+                
+                p {
+                    padding-top: 1.5rem;
+                    color: rgba(0, 0, 0, 0.3);
+                    font-weight: bold;
+                    font-size: 0.8rem;
+                }
+                
+                .banner-container button {
+                    color: white;
+                    background-color: rgb(89, 80, 165);
+                    border: none;
+                    border-radius: 10px;
+                    padding: 1rem 2rem;
+                    margin-top: 3rem;
+                    cursor: pointer;
+                }
