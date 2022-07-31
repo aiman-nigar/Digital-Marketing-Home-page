@@ -41,6 +41,11 @@
                     cursor: pointer;
                 }
                 
+                li:first-child {
+                    color: rgb(0, 0, 0);
+                    font-weight: 800;
+                }
+                
                 .navbar-container ul li:hover {
                     color: rgb(0, 0, 0);
                     font-weight: 500;
