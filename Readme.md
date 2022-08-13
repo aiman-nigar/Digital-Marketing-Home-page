@@ -9,4 +9,8 @@ It is a static home page made using **HTML & CSS**.
 
 > ### The Screenshot of the site is attached here:-
 
-![Project-3 ScreenShot:](SS4.png "Digital marketing home page")
+![Project-4 ScreenShot:](SS4.png "Digital marketing home page")
+
+Time taken: 1 Hour
+
+> ### Link to the project: [Digital Marketing Home page](https://app.netlify.com/sites/aim-digital-marketing-home-page)
