@@ -13,4 +13,4 @@ It is a static home page made using **HTML & CSS**.
 
 Time taken: 1 Hour
 
-> ### Link to the project: [Digital Marketing Home page](https://app.netlify.com/sites/aim-digital-marketing-home-page)
+> ### Link to the project: [Digital Marketing Home page](https://aim-digital-marketing-home-page.netlify.app)
